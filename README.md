@@ -1,4 +1,4 @@
-# Token Optimizer Skill 2026 — Compress LLM Output by 60-90%
+ # Token Optimizer Skill 2026 — Compress LLM Output by 60-90%
 
 [![Downloads](https://img.shields.io/badge/downloads-12k+-brightgreen)](https://github.com/PhoenixDistinguish/token-optimizer-skill/releases)
 [![Version](https://img.shields.io/badge/version-2.1.0-blue)](https://github.com/PhoenixDistinguish/token-optimizer-skill/releases)
